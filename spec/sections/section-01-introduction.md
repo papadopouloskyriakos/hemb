@@ -14,7 +14,7 @@
    They differ in one-way latency by three orders of magnitude — from
    100 milliseconds (ZigBee, LoRa) to 90 seconds (Iridium SBD).  They
    differ in per-message cost by an unbounded factor — from zero (LoRa,
-   APRS) to approximately EUR 0.05 per message (Iridium SBD).
+   APRS) to approximately EUR 0,05 per message (Iridium SBD).
 
    Existing multipath transport protocols — MPTCP [RFC8684], MP-QUIC
    [RFC9000], GRE Tunnel Bonding [RFC8157] — require IP connectivity on

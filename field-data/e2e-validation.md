@@ -18,7 +18,7 @@
 | Symbols received | 500 |
 | Decode latency P50 | 0 ms |
 | Decode latency P95 | 25 ms |
-| Cost incurred | EUR 0.000000 |
+| Cost incurred | EUR 0,000000 |
 | Bearer path | tcp_0 (Reticulum TCP/HDLC) |
 
 ## Stress Test (1000 payloads)

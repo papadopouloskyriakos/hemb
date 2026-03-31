@@ -73,7 +73,7 @@
    common protocol stack, differ in MTU by five orders of magnitude
    (1 byte to 100 kilobytes), differ in one-way latency by up to three
    orders of magnitude (100 milliseconds to 90 seconds), and differ in
-   per-message cost by an unbounded factor (zero to EUR 0.05).  No
+   per-message cost by an unbounded factor (zero to EUR 0,05).  No
    prior system addresses this combination.  Specifically:
 
    (1) No prior system bonds heterogeneous non-IP bearers

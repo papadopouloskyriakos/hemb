@@ -85,7 +85,7 @@
 
    [MESHSAT2026]
               Papadopoulos, K., "MeshSat: Multi-transport Mesh and
-              Satellite Gateway", Nuclear Lighters Inc., 2026,
+              Satellite Gateway", 2026,
               <https://github.com/cubeos-app/meshsat>.
 
    [IPOUGRS2026]

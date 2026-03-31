@@ -16,7 +16,7 @@ In disaster response, maritime, polar, and contested environments, the surviving
 communication channels — LoRa mesh radio, Iridium satellite SBD, APRS/AX.25,
 SMS, and GSM ring signals — share no common protocol stack. They differ in MTU
 by five orders of magnitude (1 byte to 100 KB), in latency by three orders of
-magnitude (100 ms to 90 s), and in cost by an unbounded factor (EUR 0 to EUR 0.05/msg).
+magnitude (100 ms to 90 s), and in cost by an unbounded factor (EUR 0 to EUR 0,05/msg).
 
 No existing protocol bonds these bearers simultaneously with coded redundancy.
 MPTCP, MP-QUIC, and GRE bonding require IP on every subflow. LACP requires
@@ -57,7 +57,7 @@ No prior system addresses this combination.
 | Decode latency P50 | 0 ms |
 | Decode latency P95 | 25 ms |
 | Symbols sent (stress test) | 9,675 |
-| Cost incurred | EUR 0.000000 |
+| Cost incurred | EUR 0,000000 |
 | Bugs found and fixed | 10 |
 | Tests (3 codebases) | 65 passing |
 
@@ -90,8 +90,8 @@ HeMB is also ported to:
 
 ## Author
 
-Kyriakos Papadopoulos · Nuclear Lighters Inc. · Leiden, Netherlands
-kyriakos@nuclearlighters.net
+Kyriakos Papadopoulos · Leiden, Netherlands
+kyriakos@papadopoulos.tech
 
 ## License
 

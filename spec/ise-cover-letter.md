@@ -53,5 +53,4 @@ propose changes to existing IETF protocols.
 
 Respectfully,
 Kyriakos Papadopoulos
-Nuclear Lighters Inc.
-kyriakos@nuclearlighters.net
+kyriakos@papadopoulos.tech
