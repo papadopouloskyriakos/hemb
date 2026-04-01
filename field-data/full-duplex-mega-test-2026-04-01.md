@@ -73,7 +73,7 @@ HeMB decode on mule01:
 | Decode success | yes | yes |
 | Decode latency P50 | 3ms | 0ms |
 | Decode latency P95 | 16ms | 8ms |
-| Cost incurred | EUR 0.00 | EUR 0.00 (IMT failed) |
+| Cost incurred | EUR 0,00 | EUR 0,00 (IMT failed) |
 | Generations decoded | 4 | 107 (session) |
 | Generations failed | 0 | 0 |
 | Relay deliveries | 3 (imt dead, tcp queued, mesh sent) | N/A |
@@ -85,6 +85,7 @@ HeMB decode on mule01:
 - Measured latency ratio (TCP vs LoRa): **~5:1** on LAN (sub-optimal — both bridges on same subnet)
 - Iridium IMT estimated: 30-120s when signal sufficient
 - Projected latency ratio with satellite: **10,000:1+** (TCP 3ms vs IMT 30s)
+- Note: The 10,000:1 ratio is projected from measured TCP P50 (3ms) and typical Iridium Certus latency (30s). Field measurement pending clean satellite signal window.
 
 Prior art (US9537759B2, MIT/DARPA 2017):
 - Maximum tested RTT ratio: ~100:1 (1500ms vs 15ms)
